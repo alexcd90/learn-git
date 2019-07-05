@@ -7,3 +7,5 @@ Git tracks changes of files.
 add two.
 
 创建dev分支
+
+creating a new branch is quick and siample.
